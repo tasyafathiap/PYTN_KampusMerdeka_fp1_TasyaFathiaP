@@ -8,5 +8,5 @@ Dalam menyelesaikan ini, ada beberapa bagian yang penting yaitu :
 
 1. [Dataset](https://www.kaggle.com/datasets/brllrb/uber-and-lyft-dataset-boston-ma)
 2. [Model yang dideploy]()
-3. 
+
 # PYTN-KampusMerdeka-FP1-TasyaFathiaP
